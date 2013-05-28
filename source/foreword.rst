@@ -5,6 +5,6 @@ HBase 的故事开始于2006年，那个时候创立于旧金山的 Powerset 公
 
 Chad Walters，Powerset 当时的首席工程师，回顾了一下经验如下：
 
-    hahahha
-    阿斯顿阿斯顿
-    over
+    建立一个运行在 Hadoop 分布式文件系统（HDFS）上的开源系统，就像运行在 Google 文件系统上的 BigTable一样，因为：1）它是一个被证实满足可伸缩的体系；2）我们可以利用 Hadoop 的 HDFS 来部署现有的工作；3）我们可以贡献和利用不断成长的 Hadoop 生态系统。
+
+Google 的 BigTable 论文发表之后，不断有关于 Hadoop 上的类似与 BigTable 的系统会是什么样子。
