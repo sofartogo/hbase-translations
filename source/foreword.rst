@@ -5,6 +5,6 @@ HBase 的故事开始于2006年，那个时候创立于旧金山的 Powerset 公
 
 Chad Walters，Powerset 当时的首席工程师，回顾了一下经验如下：
 
-| hahahha
-| 阿斯顿阿斯顿
-| over
+    hahahha
+    阿斯顿阿斯顿
+    over
