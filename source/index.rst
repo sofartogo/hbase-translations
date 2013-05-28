@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hbase-translation's documentation!
+目录
 =============================================
-
-Contents:
 
 .. toctree::
    :maxdepth: 2
-
+    
+   foreword
+   preface
 
 
 Indices and tables
